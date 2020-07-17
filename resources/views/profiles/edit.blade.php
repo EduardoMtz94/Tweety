@@ -41,7 +41,7 @@
 
             <div class="flex">
                 
-                <input type="file" name="avatar" id="avatar" class="border border-gray-400 p-2 w-full" required>
+                <input type="file" name="avatar" id="avatar" class="border border-gray-400 p-2 w-full">
 
                 <img src="{{ $user->avatar }}" alt="your avatar" width="40">
     
